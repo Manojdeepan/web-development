@@ -1,0 +1,327 @@
+*****Landingpage.html*****
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <style> 
+    body { 
+        background-image: url('https://static.vecteezy.com/system/resources/previews/008/325/520/non_2x/white-abstract-background-design-geometric-wallpaper-poster-landing-page-vector.jpg');
+    }
+     </style>
+</head>
+    <header>
+        <div class="container">
+            <h1>MyProduct</h1>
+            <nav>
+                <ul>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+   
+    <p> 
+        <section class="hero">
+        <div class="container">
+        </div> </section>
+    
+        <section class="description">
+            <div class="container">
+                <br>
+                <h3><i><b>Description About E-Commerce Website</b></i></h3>
+                <br>
+                <p>
+                    An e-commerce website enables people to buy and sell physical goods, services, and digital products online instead of at a physical store. It allows businesses to process orders, accept payments, manage shipping and logistics, and provide customer service.
+                <br>
+                <p>
+                    Commerce refers to the exchange of goods and services between two or more entities, typically involving buying and selling items of value. It can occur between businesses, between consumers, or between businesses and consumers.               
+                 </p>
+                <br>
+                <p>
+                    At its core, electronic commerce, or e-commerce, is the buying and selling of goods and services using the internet, as seen when shopping online. However, the term often encompasses all of a seller's efforts to sell products directly to consumers online.
+
+                </p>
+                <br>
+                <p>
+                    An eCommerce website allows visitors to find their product(s), add them to their “cart,” and securely enter their payment information to complete their purchase. Since the advent of credit card processing on the internet, eCommerce has permeated society and into our daily lives. With Covid and recent events, eCommerce has growth has exploded and is expected to hit $8.1 trillion in 2026 according to Shopify.
+                </p>
+                <br>
+                <p>
+                    What are the different types of eCommerce business models?
+                    <ul>
+                        <li>Business-to-business (B2B)</li>
+                        <li>Business-to-consumer (B2C)</li>
+                        <li>Consumer-to-consumer (C2C)</li>
+                        <li>Consumer-to-business (C2B)</li>
+                    </ul>
+                </p>
+                <br>
+                <p>
+                    What are the different types of eCommerce websites?
+                    <ul>
+                        <li>Single brand website</li>
+                        <li>Online retailers</li>
+                        <li>Affiliate websites</li>
+                        <li>Marketplaces</li>
+                    </ul>
+                </p>
+                <br>
+                <p>
+                    How do you make money with an eCommerce website?
+                    <ul>
+                        <li>Dropshipping</li>
+                        <li>Affiliate marketing</li>
+                        <li>Subscription</li>
+                        <li>Private labeling</li>
+                        <li>White labeling</li>
+                    </ul>
+                </p>
+            </div>
+        </section>
+    </p>
+
+    <section class="hero">
+        <div class="container">
+            <h2>Discover the Future of Shopping</h2>
+            <p>Experience the best shopping experience with MyProduct. Quality, affordability, and convenience at your fingertips.</p>
+            <a href="#buy" class="cta-button">Buy Now</a>
+        </div>
+    </section>
+
+    <section id="features" class="features">
+        <div class="container">
+            <h2>Features</h2>
+            <div class="feature-list">
+                <div class="feature-item">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3yybNmLdTQvLsJghDJh_cvYuL7Do1aqx4pg&s" alt="Feature 1">
+                    <h3>High Quality</h3>
+                    <p>Top-notch products that last long and perform well.</p>
+                </div>
+                <div class="feature-item">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBKtfzTayLYTZRKkxCnsFx4rSxBiAauNy9A&s" alt="Feature 2">
+                    <h3>Affordable Prices</h3>
+                    <p>Competitive pricing on all products.</p>
+                </div>
+                <div class="feature-item">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUSCeLIiuPWUVH6cfXV1P9etNTFjN2XkB-6FpvODlSXFTrQLYppSiSKeHyfxj0u51Ino&usqp=CAU" alt="Feature 3">
+                    <h3>Fast Shipping</h3>
+                    <p>Quick and reliable delivery to your doorstep.</p>
+                </div>
+                <div class="feature-item">
+                    <img src="https://static.vecteezy.com/system/resources/thumbnails/012/335/181/small/mobile-shopping-concept-a-man-and-a-woman-buy-things-in-the-online-store-through-a-big-smartphone-e-commerce-and-online-shopping-illustration-in-flat-style-vector.jpg" alt="Feature 4">
+                    <h3>Excellent Customer Service</h3>
+                    <p>Support available 24/7 to assist you.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>  MyProduct is dedicated to bringing you best-in-class products at unbeatable prices. Our mission is to make shopping easy and enjoyable.
+               <br> As a committed and ambitious student of Computer Science and Business Systems, I am dedicated to continuous learning and exploration.  I have actively participated in numerous technical events, workshops, and hackathons to stay motivated and engaged. 
+               I am passionate about applying my knowledge to real-world problems, driving innovation, and finding solutions to complex challenges.
+            </p>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Name: Manoj Deepan M</p>
+            <p>Email: manojdeepan9842@gmail.com</p>
+            <p>College: <a href="https://nec.edu.in/"> National Engineering College </a> </p>
+            <p><a href="https://www.linkedin.com/in/manoj-deepan-97b57b247/"> Linkedin</a></p>
+            <p><a href="https://github.com/Manojdeepan"> Github</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; myProduct 2024. All rights protected.</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+**styles.css**
+
+
+/* CSS Variables for easy theming */
+:root {
+    --primary-color: #333;
+    --secondary-color: #f4f4f4;
+    --accent-color: #ff5733;
+    --text-color: #fff;
+    --background-color: #fff;
+    --container-width: 90%;
+    --max-width: 1200px;
+    --border-radius: 5px;
+    
+}
+
+/* General Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: var(--background-color);
+    color: var(--primary-color);
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+.container {
+    width: var(--container-width);
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 0 1rem;
+}
+
+/* Header Styles */
+header {
+    background: var(--primary-color);
+    color: var(--text-color);
+    padding: 1rem 0;
+}
+
+header h1 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hero Section Styles */
+.hero {
+    background: var(--secondary-color);
+    color: var(--primary-color);
+    padding: 2rem 0;
+    text-align: center;
+    background-image: url('hero.jpg'); /* Add your hero image here */
+    background-size: cover;
+    background-position: center;
+}
+
+.hero h2 {
+    margin-bottom: 1rem;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    background: var(--primary-color);
+    color: var(--text-color);
+    text-decoration: none;
+    border-radius: var(--border-radius);
+    margin-top: 1rem;
+    transition: background 0.3s;
+}
+
+.cta-button:hover {
+    background: var(--accent-color);
+}
+
+/* Features Section Styles */
+.features {
+    background: var(--background-color);
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.features .feature-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.features .feature-item {
+    flex: 1 1 45%;
+    margin: 1rem;
+    padding: 1rem;
+    background: var(--secondary-color);
+    border-radius: var(--border-radius);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.features .feature-item:hover {
+    transform: translateY(-10px);
+}
+
+.features .feature-item img {
+    max-width: 100%;
+    border-radius: var(--border-radius);
+}
+
+.features .feature-item h3 {
+    margin: 1rem 0 0.5rem;
+}
+
+.features .feature-item p {
+    margin-bottom: 0;
+}
+
+/* About Section Styles */
+.about {
+    background: var(--secondary-color);
+    padding: 2rem 0;
+    text-align: center;
+}
+
+/* Contact Section Styles */
+.contact {
+    background: var(--background-color);
+    padding: 2rem 0;
+    text-align: center;
+}
+
+/* Footer Styles */
+footer {
+    background: var(--primary-color);
+    color: var(--text-color);
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .features .feature-item {
+        flex: 1 1 100%;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin: 0.5rem 0;
+    }
+}
+
+
