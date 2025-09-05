@@ -40,7 +40,7 @@ This repository contains a collection of simple web development projects created
 
 ## File Structure
 ```
-web-development/
+web-dev-projects/
 ├── calculator_simple
 ├── currency_convertor
 ├── landing_web_page
